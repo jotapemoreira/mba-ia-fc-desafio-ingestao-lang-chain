@@ -28,3 +28,5 @@ python ingest.py
             - ingredientes para bolo de cenoura
             
 4- Para finalizar o chat digite: sair
+
+Obs: Arquivo env-sem-chaves é o mesmo arquivo de ambiente sem as chaves das APIs
