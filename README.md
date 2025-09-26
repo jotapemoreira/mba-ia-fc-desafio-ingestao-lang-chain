@@ -27,4 +27,4 @@ python ingest.py
             
             - ingredientes para bolo de cenoura
             
-4- Para finaliar o chat digite: sair
+4- Para finalizar o chat digite: sair
